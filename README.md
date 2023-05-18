@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Huynh Thanh Sang<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
 <p>
-  - I'm currently learning <b>Electrical - Electronic</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
+  - I'm currently learning <b>Electrical - Electronics</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
 </p>
 </div>
 <p align="center">
