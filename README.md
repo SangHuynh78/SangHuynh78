@@ -68,7 +68,7 @@ When I'm stuck, I'll find a solution, like…
 
 
 <h4 align="left">Contact:</h4>
-<div align="left">
+<div align="center">
 
   <!-- LinkedIn -->
   <table style="margin-bottom: 8px;">
