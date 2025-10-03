@@ -34,16 +34,26 @@ When I'm stuck, I'll find a solution, like…
 <img src="./Icons/free_rtos.png"                            width="100" height="45"/>
 <img src="./Icons/zephyr_logo_r_color_negative_big.svg"     width="130" height="80"/><a></p>
 
-<div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=SangHuynh78&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8&card_width=500" alt="MyStats" /> 
-    <br> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SangHuynh78&bg_color=0e1118&area=true&area_color=1488D8&theme=high-contrast" width="650" alt="Contribution Graph" /> 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SangHuynh78&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8&card_width=400" alt="MyStats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangHuynh78&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=1488D8&card_width=350" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SangHuynh78&bg_color=0e1118&area=true&area_color=1488D8&theme=high-contrast" width="650" alt="Contribution Graph"/>
+  <br>
 </div>
 
 
 <h4 align="left">Edu:</h4>
 <div align="center"> 
-    <br>
     <img src="Icons/bku.ico" width="250" alt="BKU" /><br> 
     <strong>Ho Chi Minh City University of Technology</strong><br> 
     <p><a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology</a></p>
