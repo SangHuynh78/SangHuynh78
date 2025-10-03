@@ -39,34 +39,31 @@ When I'm stuck, I'll find a solution, like…
     <br> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SangHuynh78&bg_color=0e1118&area=true&area_color=1488D8&theme=high-contrast" width="650" alt="Contribution Graph" /> 
 </div>
-
-<div align="center">
-  <img src="Icons/bku.ico" width="150" alt="BKU" />
-  <h3>Ho Chi Minh City University of Technology</h3>
-  <p><a href="https://hcmut.edu.vn" target="_blank">Ho Chi Minh City University of Technology</a></p>
-  <p><em>Electrical - Electronics</em></p>
-
-  <br>
-
-  <div>
-    <p>
-      <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-        LinkedIn: <strong>Sang Huỳnh</strong>
-      </a>
-    </p>
-    <p>
-      <a href="mailto:htsang1610@gmail.com">
-        <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-        Email: <strong>htsang1610@gmail.com</strong>
-      </a>
-    </p>
-    <p>
-      <a href="https://github.com/SangHuynh78" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-        GitHub: <strong>SangHuynh78</strong>
-      </a>
-    </p>
-  </div>
+<br>
+<div align="center"> 
+    <img src="Icons/bku.ico" width="150" alt="BKU" /><br> 
+    <strong>Ho Chi Minh City University of Technology</strong><br> 
+    <p><a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology</a></p>
+    <p><em>Electrical - Electronics</em></p> 
 </div>
 
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="vertical-align:middle; margin-right:8px;"/>
+      LinkedIn: <strong>Sang Huỳnh</strong>
+    </a>
+  </p>
+  <p>
+    <a href="mailto:htsang1610@gmail.com">
+      <img src="https://img.icons8.com/fluent/48/000000/mailing.png" style="vertical-align:middle; margin-right:8px;"/>
+      Email: <strong>htsang1610@gmail.com</strong>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/SangHuynh78" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/github.png" style="vertical-align:middle; margin-right:8px;"/>
+      GitHub: <strong>SangHuynh78</strong>
+    </a>
+  </p>
+</div>
