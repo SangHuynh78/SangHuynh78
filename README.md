@@ -46,25 +46,23 @@ When I'm stuck, I'll find a solution, like…
     <p><a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology</a></p>
     <p><em>Electrical - Electronics</em></p> 
 </div>
-<br>
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="vertical-align:middle; margin-right:8px;"/>
-      <span style="position: relative; top: -6px;">LinkedIn: <strong>Sang Huỳnh</strong></span>
-    </a>
-  </p>
-  <p>
-    <a href="mailto:htsang1610@gmail.com">
-      <img src="https://img.icons8.com/fluent/48/000000/mailing.png" style="vertical-align:middle; margin-right:8px;"/>
-      <span style="position: relative; top: -6000px;">Email: <strong>htsang1610@gmail.com</strong></span>
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/SangHuynh78" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/github.png" style="vertical-align:middle; margin-right:8px;"/>
-      <span style="position: relative; top: 6000px;">GitHub: <strong>SangHuynh78</strong></span>
-    </a>
-  </p>
-</div>
+
+<h4 align="left">Contact:</h4>
+<table align="left">
+  <tr>
+    <td valign="middle" style="padding-right:10px;">
+      <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="36" height="36" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td valign="middle" style="padding-left:6px;">
+      <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank" style="text-decoration:none; color:inherit;">
+        <span style="font-size:16px; line-height:1; display:inline-block; transform: translateY(-2px);">
+          LinkedIn: <strong>Sang Huỳnh</strong>
+        </span>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
