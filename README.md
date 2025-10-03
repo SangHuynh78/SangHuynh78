@@ -57,13 +57,13 @@ When I'm stuck, I'll find a solution, like…
   <p>
     <a href="mailto:htsang1610@gmail.com">
       <img src="https://img.icons8.com/fluent/48/000000/mailing.png" style="vertical-align:middle; margin-right:8px;"/>
-      <span style="position: relative; top: -6px;">Email: <strong>htsang1610@gmail.com</strong></span>
+      <span style="position: relative; top: -60px;">Email: <strong>htsang1610@gmail.com</strong></span>
     </a>
   </p>
   <p>
     <a href="https://github.com/SangHuynh78" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/github.png" style="vertical-align:middle; margin-right:8px;"/>
-      <span style="position: relative; top: -6px;">GitHub: <strong>SangHuynh78</strong></span>
+      <span style="position: relative; top: 60px;">GitHub: <strong>SangHuynh78</strong></span>
     </a>
   </p>
 </div>
