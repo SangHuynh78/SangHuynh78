@@ -24,7 +24,7 @@ When I'm stuck, I'll find a solution, like…
 <p><a target="_blank" rel="noreferrer">
 <img src="./Icons/altium_designer.png"                      width="35" height="35"/>
 <img src="./Icons/vscode.png"                               width="35" height="35"/>
-<img src="./Icons/avr_studio.png.png"                       width="35" height="35"/>
+<img src="./Icons/avr_studio.png"                           width="35" height="35"/>
 <img src="./Icons/stm32cube.png"                            width="35" height="35"/>
 <img src="./Icons/Github.ico"                               width="35" height="35"/></a></p>
 
@@ -38,13 +38,12 @@ When I'm stuck, I'll find a solution, like…
     <img src="https://github-readme-stats.vercel.app/api?username=SangHuynh78&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8&card_width=500" alt="MyStats" /> 
     <br> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SangHuynh78&bg_color=0e1118&area=true&area_color=1488D8&theme=high-contrast" width="650" alt="Contribution Graph" /> 
-</div> | 
+</div>
 <div align="center"> 
     <img src="Icons/bku.ico" width="150" alt="BKU" /><br> 
     <strong>Ho Chi Minh City University of Technology</strong><br> 
     <em>Electrical - Electronics</em> 
-</div> |
-|---|---|
+</div>
 
 
 <h1 align="center"> 👋 Huynh Thanh Sang<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
