@@ -53,12 +53,19 @@ When I'm stuck, I'll find a solution, like…
 
 
 <h4 align="left">Edu:</h4>
-<div align="left"> 
-    <img src="Icons/bku.ico" width="250" alt="BKU" /><br> 
-    <strong>Ho Chi Minh City University of Technology</strong><br> 
-    <p><a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology</a></p>
-    <p><em>Electrical - Electronics</em></p> 
+<div align="center"> 
+    <img src="Icons/bku.ico" width="180" alt="BKU" style="margin-bottom:6px;"/> 
+    <div style="margin:2px 0;">
+        <strong>Ho Chi Minh City University of Technology</strong>
+    </div>
+    <div style="margin:2px 0;">
+        <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology</a>
+    </div>
+    <div style="margin:2px 0;">
+        <em>Electrical - Electronics</em>
+    </div>
 </div>
+
 
 <h4 align="left">Contact:</h4>
 <div align="left">
