@@ -41,29 +41,30 @@ When I'm stuck, I'll find a solution, like…
 </div>
 <br>
 <div align="center"> 
-    <img src="Icons/bku.ico" width="150" alt="BKU" /><br> 
+    <img src="Icons/bku.ico" width="250" alt="BKU" /><br> 
     <strong>Ho Chi Minh City University of Technology</strong><br> 
     <p><a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology</a></p>
     <p><em>Electrical - Electronics</em></p> 
 </div>
-
+<br>
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="vertical-align:middle; margin-right:8px;"/>
-      LinkedIn: <strong>Sang Huỳnh</strong>
+      <span style="position: relative; top: -6px;">LinkedIn: <strong>Sang Huỳnh</strong></span>
     </a>
   </p>
   <p>
     <a href="mailto:htsang1610@gmail.com">
       <img src="https://img.icons8.com/fluent/48/000000/mailing.png" style="vertical-align:middle; margin-right:8px;"/>
-      Email: <strong>htsang1610@gmail.com</strong>
+      <span style="position: relative; top: -6px;">Email: <strong>htsang1610@gmail.com</strong></span>
     </a>
   </p>
   <p>
     <a href="https://github.com/SangHuynh78" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/github.png" style="vertical-align:middle; margin-right:8px;"/>
-      GitHub: <strong>SangHuynh78</strong>
+      <span style="position: relative; top: -6px;">GitHub: <strong>SangHuynh78</strong></span>
     </a>
   </p>
 </div>
+
