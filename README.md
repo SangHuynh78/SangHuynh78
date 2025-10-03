@@ -39,8 +39,11 @@ When I'm stuck, I'll find a solution, like…
     <br> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SangHuynh78&bg_color=0e1118&area=true&area_color=1488D8&theme=high-contrast" width="650" alt="Contribution Graph" /> 
 </div>
-<br>
+
+
+<h4 align="left">Edu:</h4>
 <div align="center"> 
+    <br>
     <img src="Icons/bku.ico" width="250" alt="BKU" /><br> 
     <strong>Ho Chi Minh City University of Technology</strong><br> 
     <p><a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology</a></p>
@@ -48,21 +51,33 @@ When I'm stuck, I'll find a solution, like…
 </div>
 
 <h4 align="left">Contact:</h4>
-<table align="left">
-  <tr>
-    <td valign="middle" style="padding-right:10px;">
-      <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="36" height="36" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td valign="middle" style="padding-left:6px;">
-      <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank" style="text-decoration:none; color:inherit;">
-        <span style="font-size:16px; line-height:1; display:inline-block; transform: translateY(-2px);">
-          LinkedIn: <strong>Sang Huỳnh</strong>
-        </span>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left" style="margin-top:15px;">
+  <p style="margin:8px 0;">
+    <a href="https://www.linkedin.com/in/sanghuynh78" target="_blank" 
+       style="display:inline-flex; align-items:center; text-decoration:none; color:inherit;">
+      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" 
+           style="width:36px; height:36px; margin-right:10px;" alt="LinkedIn"/>
+      <span style="font-size:16px;">LinkedIn: <strong>Sang Huỳnh</strong></span>
+    </a>
+  </p>
+  <p style="margin:8px 0;">
+    <a href="mailto:htsang1610@gmail.com" 
+       style="display:inline-flex; align-items:center; text-decoration:none; color:inherit;">
+      <img src="https://img.icons8.com/fluent/48/000000/mailing.png" 
+           style="width:36px; height:36px; margin-right:10px;" alt="Email"/>
+      <span style="font-size:16px;">Email: <strong>htsang1610@gmail.com</strong></span>
+    </a>
+  </p>
+  <p style="margin:8px 0;">
+    <a href="https://github.com/SangHuynh78" target="_blank" 
+       style="display:inline-flex; align-items:center; text-decoration:none; color:inherit;">
+      <img src="https://img.icons8.com/fluent/48/000000/github.png" 
+           style="width:36px; height:36px; margin-right:10px;" alt="GitHub"/>
+      <span style="font-size:16px;">GitHub: <strong>SangHuynh78</strong></span>
+    </a>
+  </p>
+
+</div>
+
 
 
